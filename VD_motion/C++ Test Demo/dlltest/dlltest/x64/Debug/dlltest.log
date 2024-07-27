@@ -1,0 +1,566 @@
+﻿  dlltest.cpp
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(294,8): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(294,18): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(295,8): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(295,20): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(295,32): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(296,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(296,16): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(296,28): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(297,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(297,16): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(297,29): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(298,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(298,16): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(298,28): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(299,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(299,18): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(299,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(300,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(300,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(300,29): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(301,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(301,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(301,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(302,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(302,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(302,29): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(303,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(303,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(303,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(304,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(304,20): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(304,31): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(305,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(305,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(305,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(306,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(306,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(306,29): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(307,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(307,19): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(307,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(308,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(308,20): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(308,30): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(309,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(309,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(309,27): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(310,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(310,16): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(310,26): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(311,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(311,16): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(311,26): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(312,5): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(312,16): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(312,26): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(313,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(313,18): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(313,29): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(314,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(314,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(314,28): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(315,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(315,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(315,28): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(316,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(316,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(316,28): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(320,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(320,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(320,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(321,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(321,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(321,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(322,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(322,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(322,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(323,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(323,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(323,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(324,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(324,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(324,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(325,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(325,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(325,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(326,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(326,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(326,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(327,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(327,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(327,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(328,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(328,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(328,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(329,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(329,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(329,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(330,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(330,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(330,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(331,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(331,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(331,22): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(332,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(332,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(332,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(333,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(333,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(333,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(334,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(334,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(334,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(335,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(335,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(335,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(336,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(336,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(336,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(337,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(337,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(337,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(338,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(338,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(338,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(339,6): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(339,14): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(339,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(343,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(343,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(343,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(344,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(344,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(344,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(345,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(345,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(345,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(346,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(346,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(346,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(347,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(347,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(347,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(348,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(348,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(348,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(349,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(349,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(349,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(350,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(350,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(350,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(351,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(351,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(351,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(352,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(352,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(352,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(353,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(353,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(353,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(354,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(354,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(354,23): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(355,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(355,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(355,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(356,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(356,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(356,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(357,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(357,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(357,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(358,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(358,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(358,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(359,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(359,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(359,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(360,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(360,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(360,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(361,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(361,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(361,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(362,7): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(362,15): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\dlltest\dlltest.cpp(362,24): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“/dlltest.cpp”)
+  
+  dlltest.vcxproj -> E:\Documents\Cyber\VD_motion\C++ Test Demo\dlltest\x64\Debug\dlltest.exe
